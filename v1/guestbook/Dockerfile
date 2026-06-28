@@ -35,4 +35,3 @@ WORKDIR /app
 
 EXPOSE 3000
 CMD ["./guestbook"]
-<Please fill in the required Docker command> 3000
